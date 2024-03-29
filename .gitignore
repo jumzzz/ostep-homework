@@ -1,0 +1,53 @@
+# Object files
+*.o
+*.obj
+*.a
+*.so
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.dll
+
+# Binary and Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency directories (commented out by default)
+# node_modules/
+# vendor/
+
+# Build folders
+build/
+Release/
+Debug/
+obj/
+
+# Makefile generated files
+*.make
+*.d
+
+# Editor backups and temporary files
+*~
+*.swp
+*.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
